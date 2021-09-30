@@ -1,0 +1,6 @@
+{
+    "username" : "pixelmelt",
+    "apikey" : "xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "webhook" : "https://discord.com/api/webhooks/xxxxxxxxxx/xxxxxxxxxx",
+    "RepeatSameMessages" : "no"
+}
